@@ -4,4 +4,4 @@ Text added
 
 # Peer Review
 
-No changes made
+No changes were made
